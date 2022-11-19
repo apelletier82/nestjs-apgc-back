@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "apelletier",
+    "fullName": "Alexandre Pelletier",
+    "email": "apelletier@mail.com"
+  },
+  {
+    "id": 2,
+    "username":"pelletiera",
+    "fullName": "Pelletier Alexandre",
+    "email": "a.pelletier@mail.com"
+  }
+]
